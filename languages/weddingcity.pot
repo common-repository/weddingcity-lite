@@ -1,0 +1,2873 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid " - Give a review."
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/forgot-password/index.php:1
+msgid " Security code not found."
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "#1"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "#2"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "#3"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:379
+#: weddingcity/modules/listing/index.php:1652
+msgid "$"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1066
+msgid "%1$s average based on %2$s ratings."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "%1$s budget removed!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "(Outside from our website)"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1652
+msgid "+"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:235
+msgid "1. Enter your email address"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-dashboard/index.php:288
+msgid "15 Seat remain"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "2"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:236
+msgid "2. Wait for your recovery details to be sent."
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "3"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:237
+msgid "3. Follow as given instructions in your mail account."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-dashboard/index.php:287
+msgid "300"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "5"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "6"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "About"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "About Business"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+#: weddingcity/modules/listing/index.php:1652
+#: weddingcity/modules/add-listing/index.php:1
+msgid "About Listing"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "About Us"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+#: weddingcity/modules/couple-guest-list/index.php:315
+msgid "Accepted"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing/index.php:1647
+msgid "Accommodations / Amenities Included"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "Action"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Actions"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Active"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Actual"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Add Budget Category"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Add Budget category"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Add New"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:277
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Add New Guest"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing/index.php:227
+#: weddingcity/modules/add-listing/index.php:1
+msgid "Add New Listing"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Add New Member"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-todo/index.php:620
+msgid "Add New Task"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Add Vednor information you used from other vendors."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Add Vendors Information"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Add Vendors Information "
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-budget-planner/index.php:507
+msgid "Add your budget category and Start filling your estimate and actual cost then add paid cost will automatically calculate your pending cost."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:1
+msgid "Add your business listing with under list category, title, descriptions, google map, gallery and featured image, etc.."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Address"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Address Line 1"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Address Line 2"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:379
+msgid "Advance Option"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:933
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Amenities"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/social-login-user-verify/index.php:281
+msgid "Are you couple ?"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/social-login-user-verify/index.php:287
+msgid "Are you vendor ?"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "Availability"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:478
+msgid "Average Ratings"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Both"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:488
+msgid "Browse 33,000 vendor profile and reviews."
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Browse the best wedding vendors in your area — from venues and photographers, to wedding planners, caterers, florists and more."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-budget-planner/index.php:314
+#: weddingcity/modules/couple-dashboard/index.php:172
+msgid "Budget"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-budget-planner/index.php:315
+#: weddingcity/modules/couple-budget-planner/index.php:506
+msgid "Budget Details"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-budget-planner/index.php:339
+msgid "Budget Estimator"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Budget planner"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid "Business Profile"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid "Business Profile Update Error... Please login again then update your profile."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid "Business Profile Update Successfully"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/vendor-login/index.php:451
+msgid "Business Register"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Business Video"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Business name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Button Text Here"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:1
+msgid "Can you attend ?"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Category Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Cateogry"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Change Password"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid "Change your profile image and information edit and save."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/user-profile/vendor-profile.php:789
+#: weddingcity/modules/user-profile/couple-profile.php:568
+msgid "Changes your Email Notifications"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+msgid "Check your business listing request quotes."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1
+msgid "Check your business listing reviews."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/invoice-details.php:1
+msgid "Check your payments list quotes."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Choose Banner image"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Choose Featured image"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Choose Slider Image Here :"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Choose wisely your pricing plan."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "City"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/forgot-password/index.php:307
+msgid "Click here"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "Compare &amp; Finalize"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "Complete"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/social-login-user-verify/index.php:322
+msgid "Configure Your Credentials"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Content Management"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-real-wedding/index.php:245
+msgid "Contributing Vendors"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/wedding-website/index.php:76
+msgid "Copy URL"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/wedding-website/index.php:76
+msgid "Copy to clipboard"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Country"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:877
+msgid "Couple"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:1
+msgid "Couple Dashboard"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Couple Guest"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:303
+msgid "Couple Login"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+msgid "Couple Member"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Couple Profile"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-todo/index.php:605
+msgid "Create Task"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Create Your wedding website and share with your friend and family."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "Create and manage your wedding planning checklist. Its ultimate and real simple."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1
+msgid "Create your wedding business listing on %1$s to start building customers."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "DELETE"
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/dashboard/index.php:244
+msgid "Dashboard Page Error.."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+#: weddingcity/modules/couple-guest-list/index.php:315
+msgid "Declined"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/user-profile/couple-profile.php:466
+#: weddingcity/modules/user-profile/couple-profile.php:577
+msgid "Delete Account"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Descriptions"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/divider/index.php:1
+msgid "Divider"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-todo/index.php:695
+msgid "Edit Task"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:506
+#: weddingcity/templates/forgot-password/index.php:255
+#: weddingcity/templates/vendor-login/index.php:469
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/listing-request/index.php:276
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/invoice-details.php:174
+#: weddingcity/modules/vendor-invoice/invoice-details.php:194
+msgid "Email :"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:256
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Email Address"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Email Notifications"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Email already exists."
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/forgot-password/index.php:1
+msgid "Email does not exists in users list."
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Email field is empty"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-rsvp/index.php:637
+msgid "Enter Email Address"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Enter display listings."
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Enter your Description"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Enter your title"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "Error. Review id not found..."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:1
+msgid "Error..."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Estimate"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Ex. Photography"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Expired"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Expired:"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Extra Large Device"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1083
+msgid "Facilities"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:933
+msgid "Featured Listing ?"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Filter With City"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Filter With Country"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Filter With State"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Find the Perfect Wedding Vendor"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "First Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1083
+msgid "Flexibility"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:233
+msgid "Follow these simple steps to reset your account:"
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/forgot-password/index.php:307
+msgid "Forgot Your Password ?"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Form Field Management"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Form Submit Button Text"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "From Our website"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "Gallery"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:260
+msgid "Get New Password"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:309
+msgid "Get Transaction Details Failed"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Group"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:1785
+msgid "Group/Family"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:379
+#: weddingcity/modules/listing/index.php:1652
+msgid "Guest"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "Guest List"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Guest Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1
+msgid "Guest Removed Successfully!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1
+msgid "Guest manager allows you to take your guest management for wedding events."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:315
+msgid "Guests"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "Hello %1$s, You already review for this listing."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "Hello %1$s, You can not review for listing."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "Hello %1$s, You can not review for your own listing."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-dashboard/index.php:1
+msgid "Hi, Vendor."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "HouseHold Guest"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:877
+msgid "Household"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Household Guest"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Household Member"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:1
+msgid "Household Names"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/update-listing/index.php:593
+msgid "If you want to show this listing as a Featured Listing ?"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Instagram"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1
+msgid "Invitation Send Successfully!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Invite Sent"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/invoice-details.php:1
+msgid "Invoice List"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-budget-planner/index.php:340
+msgid "Its simple and powerful wedding budget calculator will help you to estimate, actual and paid wedding cost."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/vendor-login/index.php:519
+msgid "Join Weddingsto get your business listed or to claim your listing for FREE!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Large Device"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Last Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Latitude"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Listing"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Listing Categories :"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:842
+msgid "Listing Featured Image"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:842
+msgid "Listing Gallery"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Listing Information"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:379
+msgid "Listing Not Found.."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:842
+msgid "Listing Video Link"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1
+msgid "Listing id not set Properly!."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "Listings"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "Live Documentation"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "Location"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1452
+msgid "Location - Map"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Location Filter ? :"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:468
+#: weddingcity/templates/couple-login/index.php:567
+#: weddingcity/templates/vendor-login/index.php:432
+#: weddingcity/templates/vendor-login/index.php:540
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:546
+msgid "Login your account and manage your Wishlist, Todo, Budget, RSVP, Guest List, etc.."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Longitude"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:232
+msgid "Lost Password"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Map Address"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Map Position :"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Medium Device"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Member"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Mention Slider Lists Here :"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-guest-list/index.php:271
+msgid "My Guest List"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1
+msgid "My Guest Manager"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1
+msgid "My Listing"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "My To Do List"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-wishlist/index.php:1
+msgid "My Wishlist"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/listing-request/index.php:269
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "New Password and confirm password does not match."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-real-wedding/index.php:624
+msgid "Next Real Wedding"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:309
+msgid "Note your transaction number for future reference for paypal"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Number of listing ?"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Old Password is not correct."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "On RSVP form in your website page"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Outside Website"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Page Header Banner"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Page Header Image"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Paid"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Partner First Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Partner Last Name"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:563
+#: weddingcity/templates/vendor-login/index.php:536
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Password Change"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Password Updated. Please login again."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Pending"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/listing-request/index.php:283
+msgid "Phone"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/invoice-details.php:176
+#: weddingcity/modules/vendor-invoice/invoice-details.php:196
+msgid "Phone :"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Phone Number"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-invoice/invoice-details.php:207
+msgid "Plan Name"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-pricing/index.php:185
+msgid "Plan Type:"
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Please check your inbox or spam/junk and get your password"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-rsvp/index.php:636
+msgid "Please enter your email."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:1
+msgid "Please login as vendors then you can process it. We process for logout action..."
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Please provide correct email."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Postcode"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-real-wedding/index.php:624
+msgid "Previous Real Wedding"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/vendor-invoice/invoice-details.php:208
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Price"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Pricing Plan"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid "Profile"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Profile Updated Error... Please login again then update your profile."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Profile Updated Successfully"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-invoice/invoice-details.php:209
+msgid "Qty"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1083
+msgid "Quality Service"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "RSVP"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "RSVP Form"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/wedding-website/index.php:133
+msgid "RSVP Setting"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/blog-article/index.php:106
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:1
+msgid "Real Wedding"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:207
+msgid "RealWedding Setting"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:1
+msgid "RealWedding Uploaded Successfully!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-real-wedding/index.php:245
+msgid "Recent Real Wedding"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "Recommended Hosting"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:465
+#: weddingcity/templates/vendor-login/index.php:429
+msgid "Register"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/texonomy-meta/index.php:92
+msgid "Remove Image"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/single-vendor/index.php:137
+msgid "Request A Quote"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+msgid "Request List"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:263
+msgid "Request Quote"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Responsive Listing Item Show"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+#: weddingcity/modules/listing-reviews/index.php:1
+#: weddingcity/modules/listing-reviews/index.php:478
+#: weddingcity/modules/listing-reviews/index.php:1049
+#: weddingcity/modules/listing-reviews/index.php:1062
+msgid "Reviews"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Save Couple Guest Details"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Save Household Guest Details"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Save Single Guest Details"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+#: weddingcity/modules/listing/index.php:379
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Seat Capacity"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:1
+msgid "Security Error.."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Select Category"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Select City"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Select Column Grid :"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Select Country"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Select Location :"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Select State"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:624
+msgid "Select Task Date"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Select vendor. Type your vendor name and hit the enter."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:315
+msgid "Send Email"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "Send to Theme Options"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/wedding-website/index.php:69
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1452
+msgid "Share Listing"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/real-wedding/index.php:244
+msgid "Show Public"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:516
+#: weddingcity/templates/vendor-login/index.php:489
+msgid "Sign up"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1452
+msgid "Similar Vendor"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:877
+msgid "Single"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Single Guest"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Slider Number"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Social Media"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Social Media Updated Error... Please login again then update your profile."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Social Media Updated Successfully"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:172
+msgid "Spent $"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1083
+msgid "Staff"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Staretd:"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:379
+#: weddingcity/modules/listing/index.php:1652
+msgid "Start From"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Start Your RSVP Form"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Start your wedding budget with the Wedding budget planner estimator tool."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "State"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+#: weddingcity/modules/vendor-pricing/index.php:201
+msgid "Status"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Story Description"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Street Address."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Street address"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:1
+#: weddingcity/modules/couple-rsvp/index.php:645
+msgid "Submit"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/add-listing/index.php:918
+msgid "Submit Listing"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:310
+msgid "Submit Quote"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:706
+msgid "Submit review"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:624
+msgid "Submit to do"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:1
+msgid "Submit your real wedding photos and vendor details. Share your story of big the day."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "Successfully Update"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Successfully Updated!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "Support"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-dashboard/index.php:286
+msgid "Table Seating"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+#: weddingcity/modules/couple-todo/index.php:624
+msgid "Task Date"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+#: weddingcity/modules/couple-todo/index.php:624
+msgid "Task Title"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:1
+msgid "Thanks for RSVP!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "The new password is blank"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-wishlist/index.php:1
+msgid "The wishlist is great way to keep track your wedding vendor and their service availablity in your wishlist board."
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "This Email already exists"
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "This Username already exists"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/single-vendor/index.php:305
+msgid "This vendor can not publish any post."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-pricing/index.php:193
+msgid "Time Duration"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-invoice/invoice-details.php:180
+msgid "To:"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "Todo Removed Successfully!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "Todo Task Done!"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-invoice/invoice-details.php:210
+#: weddingcity/modules/vendor-invoice/invoice-details.php:234
+msgid "Total"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "Total To Do"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:309
+msgid "Transaction Complete, but payment is still pending!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid "Update Business Profile"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Couple Guest"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Couple Guest Details"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update HouseHold Guest"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Household Guest Details"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+#: weddingcity/modules/update-listing/index.php:432
+msgid "Update Listing"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Update Profile"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Update RSVP Setting"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Single Guest"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Single Guest Details"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Update Social Profile"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Update Wedding Information"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Your Guest Data"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+msgid "Update your business listing with under list category, title, descriptions, google map, gallery and featured image, etc.."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Update your wedding information, profile photo, and personal informations."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Upload Background Image for Video Play"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Upload Brand Icon"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Upload Featured Image"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/divider/index.php:1
+#: weddingcity/modules/texonomy-meta/index.php:91
+msgid "Upload Image"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Upload Page Header Banner Image"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Upload Profile Banner Image"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Upload Profile Image"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Upload Wedding Gallery"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/real-wedding/index.php:173
+msgid "Upload Your Real Wedding"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:500
+#: weddingcity/templates/vendor-login/index.php:463
+msgid "User Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Username field is empty."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:557
+#: weddingcity/templates/vendor-login/index.php:530
+msgid "Username or Email Address"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1083
+msgid "Value of money"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1652
+#: weddingcity/modules/listing/index.php:1961
+msgid "Vendor Gallery %1$s"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Vendor Listing"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:304
+msgid "Vendor Login"
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/vendor-login/index.php:475
+#: weddingcity/modules/social-login-user-verify/index.php:296
+msgid "Vendor Type"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:305
+msgid "Vendor does not have video.."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "Vendors Wishlist"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "Video"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:842
+msgid "Video Link Here"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "View"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+#: weddingcity/modules/couple-dashboard/index.php:172
+#: weddingcity/modules/couple-dashboard/index.php:290
+msgid "View All"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1652
+msgid "View Gallery"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing/index.php:1945
+msgid "View Map"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/blog-article/index.php:215
+msgid "View all posts in %s"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:1
+msgid "Wait for a moment, you will be redirect on payment gateway."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:315
+msgid "Waiting"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:489
+msgid "We don't post anything without your permission."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/single-vendor/index.php:136
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/wedding-website/index.php:72
+msgid "Website URL"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:512
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/listing-request/index.php:290
+#: weddingcity/modules/social-login-user-verify/index.php:315
+msgid "Wedding Date"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Wedding Event"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Wedding Information"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-rsvp/index.php:598
+msgid "Wedding RSVP"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Wedding Website"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "WeddingCity"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "WeddingCity Business"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "WeddingCity Options"
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+#: weddingcity/modules/social-login-user-verify/index.php:1
+msgid "Welcome "
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:305
+msgid "Welcome %1$s"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:545
+msgid "Welcome Back Couple"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/vendor-login/index.php:518
+msgid "Welcome Back Vendor"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:261
+msgid "Welcome Vendor, You dont have any listing. Add your first listing free."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:1
+msgid "Welcome couple. You can check and manage your wishlist, checklist, budget and guestlist overview."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:301
+msgid "Write Comment"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Write Descriptions for your venue"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1652
+msgid "Write Review"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:624
+msgid "Write Task Title"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:691
+msgid "Write Your Review"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:694
+msgid "Write Your Review Here."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:662
+msgid "Write Your Reviews"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/real-wedding/index.php:467
+msgid "Write about your wedding journey."
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Wrong username or password."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "Year"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:1
+msgid "Yes, I will be there"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "You Couple Guest is Added Successfully!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "You Household Guest is Added Successfully!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "You Single Guest is Added Successfully!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "You Single Guest is Updated Successfully!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-real-wedding/index.php:382
+msgid "You may also like.."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "You must be login then you can review for this listing."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Your Budget Amount"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:734
+#: weddingcity/modules/listing-reviews/index.php:735
+msgid "Your Email"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+msgid "Your Listing"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+#: weddingcity/modules/add-listing/index.php:1
+msgid "Your Listing is Added."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+#: weddingcity/modules/add-listing/index.php:1
+msgid "Your Listing is Not Added."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1
+msgid "Your Listing is Removed Successfully!."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+#: weddingcity/modules/add-listing/index.php:1
+msgid "Your Listing is Updated."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:728
+#: weddingcity/modules/listing-reviews/index.php:729
+msgid "Your Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "Your Review Send Successfully!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Your Wedding Information is Saved Sucessfully !"
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/forgot-password/index.php:1
+msgid "Your password has been reset successfully! Your new password has been sent to your primary email address."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/paypal/index.php:309
+msgid "Your payment has been receive successfully"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Youtube"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:598
+msgid "and"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:598
+msgid "are getting married"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:598
+msgid "at the"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:478
+msgid "average based on"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/couple-todo/index.php:484
+#: weddingcity/modules/listing/index.php:261
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "delete"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "e.g. 123 456 7890"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "e.g. 23.0732195"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "e.g. 50"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "e.g. 72.5646902"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:484
+#: weddingcity/modules/listing/index.php:261
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "edit"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "https://weddingcity.wporganic.com"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:842
+msgid "https://www.youtube.com/watch?v=VQWgez89JlM"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:172
+msgid "out of $"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:478
+msgid "ratings."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "remain"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:282
+msgid "request_phone"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:172
+msgid "so far."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1652
+msgid "view map"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "weddingcity - Slider"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "weddingcity Sliders"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:1050
+msgid "write a review"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Guest Data - %1$s Not Found in our database.."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/bulk-import-locations/index.php:266
+msgid "Import Locations"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/bulk-import-locations/index.php:249
+msgid "Location Bulk Import"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Hide"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Listing Search ?"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Off"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "On"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Show"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Show listing amenities ?"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Vendors Search ?"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "breakpoint from 1200 up"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "breakpoint from 576 up"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "breakpoint from 768 up"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "breakpoint from 992 up"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/add-listing/index.php:842
+msgid ""
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/add-listing/index.php:365
+msgid "<p>Hello %1$s,%6$s Your Activate Plan Name is: %2$s,%6$s  So you can add number of listing in %3$s is: %4$s%6$s Your Plan Expire Date is: %5$s</p>"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:1060
+#: weddingcity/modules/listing-reviews/index.php:1064
+msgid "average_rating"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/update-listing/index.php:597
+msgid "featured_listing"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-pricing/index.php:186
+msgid "plan_name"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/real-wedding/index.php:467
+#: weddingcity/modules/real-wedding/index.php:468
+msgid "post_content"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/real-wedding/index.php:247
+msgid "realwedding_setting"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:299
+#: weddingcity/modules/listing-request/index.php:300
+msgid "request_comment"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:275
+msgid "request_email"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:268
+msgid "request_name"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-pricing/index.php:202
+msgid "status"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-pricing/index.php:194
+msgid "timeline"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/user-profile/vendor-profile.php:1153
+msgid "vendor_bussiness_map"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:289
+msgid "weddingdate"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-dashboard/index.php:48
+msgid "Here what\'s happening with your wedding business today."
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/dashboard-menu/couple-menu.php:262
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:233
+msgid "edit profile"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:51
+msgid "My Listed Item"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-dashboard/index.php:107
+msgid "Total Listed Item"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/vendor-dashboard/index.php:107
+msgid ""
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/couple-menu.php:139
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:111
+#: weddingcity/modules/user-profile/couple-profile.php:322
+#: weddingcity/modules/user-profile/vendor-profile.php:296
+msgid "My Profile"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:693
+#: weddingcity/modules/user-profile/couple-profile.php:695
+#: weddingcity/modules/user-profile/vendor-profile.php:503
+#: weddingcity/modules/user-profile/vendor-profile.php:505
+msgid "Old Password"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:705
+#: weddingcity/modules/user-profile/couple-profile.php:707
+#: weddingcity/modules/user-profile/vendor-profile.php:515
+#: weddingcity/modules/user-profile/vendor-profile.php:517
+msgid "New Password"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:715
+#: weddingcity/modules/user-profile/couple-profile.php:717
+#: weddingcity/modules/user-profile/vendor-profile.php:525
+#: weddingcity/modules/user-profile/vendor-profile.php:527
+msgid "Confirm Password"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:292
+msgid "Pay Paypal"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:295
+msgid "Pay Stripe"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:99
+msgid "Invoice"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:76
+msgid "Request Quotes"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:1694
+#: weddingcity/core/option-tree/metabox.php:1879
+#: weddingcity/modules/vendor-invoice/index.php:87
+msgid "Invoice Id"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/index.php:93
+msgid "Payment Mode"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/index.php:96
+msgid "Payment Mode"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/index.php:102
+msgid "View Invoice"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/couple-menu.php:175
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:122
+msgid "Logout"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:1361
+#: weddingcity/elementor/search-filter-box/index.php:436
+#: weddingcity/elementor/slider/index.php:345
+#: weddingcity/modules/social-login-user-verify/index.php:302
+msgid "Vendor Type"
+msgstr ""
+
+#. Text in function
+#: weddingcity/elementor/search-filter-box/index.php:528
+#: weddingcity/elementor/slider/index.php:437
+#: weddingcity/modules/add-listing/index.php:570
+#: weddingcity/modules/bulk-import-locations/index.php:321
+#: weddingcity/modules/class-texonomy/index.php:99
+#: weddingcity/modules/update-listing/index.php:574
+#: weddingcity/modules/user-profile/couple-profile.php:660
+#: weddingcity/modules/user-profile/vendor-profile.php:769
+msgid "Select City"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/blog-article/index.php:391
+msgid "Comment"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-wishlist/index.php:424
+#: weddingcity/modules/couple-wishlist/index.php:437
+msgid "Add To Wishlist"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:3753
+#: weddingcity/modules/listing-reviews/index.php:217
+#: weddingcity/modules/listing-reviews/index.php:408
+#: weddingcity/modules/listing-reviews/index.php:1075
+msgid "Quality Service"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:3769
+#: weddingcity/modules/listing-reviews/index.php:227
+#: weddingcity/modules/listing-reviews/index.php:416
+#: weddingcity/modules/listing-reviews/index.php:1085
+msgid "Facilities"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:3785
+#: weddingcity/modules/listing-reviews/index.php:237
+#: weddingcity/modules/listing-reviews/index.php:424
+#: weddingcity/modules/listing-reviews/index.php:1095
+msgid "Staff"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:3801
+#: weddingcity/modules/listing-reviews/index.php:247
+#: weddingcity/modules/listing-reviews/index.php:432
+#: weddingcity/modules/listing-reviews/index.php:1105
+msgid "Flexibility"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:3817
+#: weddingcity/modules/listing-reviews/index.php:257
+#: weddingcity/modules/listing-reviews/index.php:440
+#: weddingcity/modules/listing-reviews/index.php:1115
+msgid "Value of money"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/blog-article/index.php:803
+msgid "Next Post"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/blog-article/index.php:776
+msgid "Previous Post"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-option.php:2493
+msgid "Forgot Password"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/alerts/index.php:135
+msgid "Please wait..."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/couple-menu.php:262
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:233
+msgid "edit profile"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/couple-menu.php:67
+msgid "To Do List"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:810
+msgid "Completed Task"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:834
+msgid "Due Task"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:882
+msgid "Total Task"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:630
+msgid "Total Task"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:637
+msgid "Estimate Total"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:640
+msgid "Actual Total"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:643
+msgid "Paid Total"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:646
+msgid "Pending Total"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:624
+msgid "Add New Budget"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:652
+msgid "Save Budget"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:527
+#: weddingcity/modules/couple-guest-list/add-guest.php:872
+#: weddingcity/modules/couple-guest-list/index.php:1244
+#: weddingcity/modules/couple-guest-list/index.php:1628
+#: weddingcity/modules/couple-guest-list/update-guest.php:923
+#: weddingcity/modules/couple-todo/index.php:526
+#: weddingcity/modules/listing-request/index.php:155
+#: weddingcity/modules/real-wedding/index.php:443
+msgid "DELETE"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/couple-menu.php:89
+msgid "Guestlist"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:494
+msgid "Submit Real Weddings"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:3233
+#: weddingcity/modules/user-profile/couple-profile.php:865
+#: weddingcity/modules/user-profile/couple-profile.php:867
+msgid "Bride First Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:3248
+#: weddingcity/modules/user-profile/couple-profile.php:880
+#: weddingcity/modules/user-profile/couple-profile.php:882
+msgid "Bride Last Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:897
+#: weddingcity/modules/user-profile/couple-profile.php:899
+msgid "Groom First Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:3278
+#: weddingcity/modules/user-profile/couple-profile.php:913
+#: weddingcity/modules/user-profile/couple-profile.php:915
+msgid "Groom last Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:389
+msgid "All Listings"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:411
+msgid "Approved"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:422
+msgid "Removed"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:946
+msgid "Featured"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:382
+#: weddingcity/modules/single-vendor/index.php:102
+msgid "Your Request Send Successfully!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/index.php:96
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:751
+#: weddingcity/modules/update-listing/index.php:768
+msgid "Add Listing Gallery"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:445
+#: weddingcity/modules/update-listing/index.php:443
+msgid "Listing Info"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:405
+#: weddingcity/modules/update-listing/index.php:419
+msgid "Listing Category"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:591
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:422
+#: weddingcity/modules/listing/index.php:783
+msgid "Removed"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:411
+msgid "Approved"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/vendor-dashboard/index.php:167
+msgid "Your Reviews"
+msgstr ""
+
+#. Text in function
+#: weddingcity/inc/class-page-header-banner.php:438
+#: weddingcity/core/option-tree/metabox.php:3323
+#: weddingcity/modules/user-profile/couple-profile.php:592
+#: weddingcity/modules/user-profile/couple-profile.php:594
+#: weddingcity/modules/user-profile/couple-profile.php:603
+#: weddingcity/modules/user-profile/couple-profile.php:605
+msgid "Wedding Theme"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:151
+msgid "We can\'t find your name. Make sure you enter your name as it appears on your invitations."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:251
+msgid "Your Page Setting Successfully Updated !"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1765
+msgid "Confirmed"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/couple-menu.php:44
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:40
+msgid "Dashboard"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:274
+msgid "Couple Name"
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:193
+#: weddingcity/modules/couple-rsvp/index.php:259
+#: weddingcity/modules/couple-rsvp/index.php:326
+msgid "Sorry, can\'t make it."
+msgstr ""
+
+#. Text in function
+#: weddingcity/modules/email/index.php:439
+msgid "Your invitation link."
+msgstr ""
+
+#. Text in function
+#: weddingcity/assets/weddingcity-scripts.php:84
+msgid "Delete"
+msgstr ""
+
+#. Text in function
+#: weddingcity/assets/weddingcity-scripts.php:85
+msgid "Save Budget"
+msgstr ""
+
+#. Text in function
+#: weddingcity/assets/weddingcity-scripts.php:86
+msgid "wait a moment.."
+msgstr ""
+
+#. Text in function
+#: weddingcity/assets/weddingcity-scripts.php:87
+msgid "Budget Saved!"
+msgstr ""
+
+#. Text in function
+#: weddingcity/templates/vendor-login/index.php:499
+msgid "Vendor Category"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/templates/vendor-login/index.php:487
+msgid "Email"
+msgstr ""

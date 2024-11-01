@@ -1,0 +1,4 @@
+.btn-default-wishlist.disabled,
+.btn-wishlist.disabled{
+	cursor: not-allowed;
+}

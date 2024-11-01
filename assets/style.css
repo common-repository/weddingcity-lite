@@ -1,0 +1,241 @@
+
+/**
+ *  Couple & Vendor Dashboard mobile menu css
+ */
+html,
+body {
+  overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+@media (max-width: 991.98px) {
+  .offcanvas-collapse {
+        position: fixed;
+        top: 116px; /* Height of navbar */
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        padding-right: 0px;
+        padding-left: 0px;
+        overflow-y: auto;
+        visibility: hidden;
+        background-color: #fff;
+        transition-timing-function: ease-in-out;
+        transition-duration: .3s;
+        transition-property: left, visibility;
+        z-index: 2000;
+  }
+  .offcanvas-collapse.open {
+        left: 0;
+        visibility: visible;
+        position: absolute;
+        top:0;
+        width: 100%;
+  }
+}
+
+.frontend_dropdown_menu{ top: 12px;}
+.frontend_dropdown_menu .user-vendor-name{color: #fff; font-weight: 500; bottom: 0px;}
+ 
+.frontend_dropdown_menu .dropdown-item{    padding: 4px 66px 4px 20px!important;}
+.frontend_dropdown_menu .dashboard-dropdown-menu {
+    position: absolute !important;
+    top: 14px !important;
+    border-radius: 0 0 3px 3px;
+    border: 1px solid #ebebeb;
+}
+.frontend_dropdown_menu .dropdown-toggle:after {
+    width: 0;
+    height: 0;
+    margin-left: .255em;
+    vertical-align: 1px;
+    content: "";
+    border-top: .3em solid #ebebeb;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+}
+
+/**
+ *   kingcomposer
+ *   ------------
+ */
+
+.kc-element-icon .cpicon.KC_wporganic,
+.kc-components ul.kc-components-list li .KC_wporganic {
+    width: 80px;    
+    height: 60px;
+    display: inline-block;
+    background-size: cover;
+    background-position: 0px 0px;
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-related-post,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-related-post{
+    background-image: url(images/wporganic-related-post.png);
+}
+
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-recent-blog,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-recent-blog{
+    background-image: url(images/wporganic-recent-blog.png);
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-blog-post,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-blog-post{
+    background-image: url(images/wporganic-blog-post.png);
+}
+
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-google-map,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-google-map{
+    background-image: url(images/wporganic-google-map.png);
+}
+
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-menu,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-menu{
+    background-image: url(images/wporganic-menu.png);
+}
+
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-listing,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-listing{
+    background-image: url(images/wporganic-listing.png);
+}
+
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-pricing,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-pricing{
+    background-image: url(images/wporganic-pricing.png);
+}
+
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-search,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-search{
+    background-image: url(images/wporganic-search.png);
+}
+
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-vendor-categories,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-vendor-categories{
+    background-image: url(images/wporganic-vendor-categories.png);
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-real-wedding,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-real-wedding{
+    background-image: url(images/wporganic-real-wedding.png);
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-social-share,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-social-share{
+    background-image: url(images/wporganic-social-share.png);
+}
+
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-testimonials,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-testimonials{
+    background-image: url(images/testimonial.png);
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-cta,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-cta{
+    background-image: url(images/cta.png);
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wp-organic-team,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wp-organic-team{
+    background-image: url(images/team.png);
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wp-organic-heading,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wp-organic-heading{
+    background-image: url(images/heading.png);
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-location-texonomy,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-location-texonomy{
+    background-image: url(images/wporganic-listing.png);
+}
+.kc-element-icon .cpicon.KC_wporganic.wporganic-location-texonomy,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-location-texonomy{
+    background-image: url(images/wporganic-location-texonomy.png);
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-featured-box,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-featured-box{
+    background-image: url(images/wporganic-featured-box.png);
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-listing-group,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-listing-group{
+    background-image: url(images/wporganic-listing-group.png);
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-card-box,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-card-box{
+    background-image: url(images/wporganic-card-box.png);
+}
+.kc-element-icon .cpicon.KC_wporganic.wporganic-contact-block,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-contact-block{
+    background-image: url(images/wporganic-contact-block.png);
+}
+.kc-element-icon .cpicon.KC_wporganic.wporganic-divider,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-divider{
+    background-image: url(images/wporganic-divider.png);
+}
+.kc-element-icon .cpicon.KC_wporganic.wporganic-cta,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-cta{
+    background-image: url(images/wporganic-cta.png);
+}
+.kc-element-icon .cpicon.KC_wporganic.wporganic-how-it-work,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-how-it-work{
+    background-image: url(images/wporganic-how-it-work.png);
+}
+
+.kc-element-icon .cpicon.KC_wporganic.wporganic-card-group,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.wporganic-card-group{
+    background-image: url(images/card-group.png);
+}
+
+
+.kc-element-icon .cpicon.KC_wporganic.location-list,
+.kc-components ul.kc-components-list li .cpicon.KC_wporganic.location-list{
+    background-image: url(images/location-list.png);
+}
+
+
+/**
+ *  Front end vendor and couple dropdown.
+ */
+.frontend_dropdown_menu{ top: 12px;}
+.frontend_dropdown_menu .user-vendor-name{color: #fff; font-weight: 500; bottom: 0px;}
+ 
+.frontend_dropdown_menu .dropdown-item{    padding: 4px 66px 4px 20px!important;}
+.frontend_dropdown_menu .dashboard-dropdown-menu {
+    position: absolute !important;
+    top: 14px !important;
+    border-radius: 0 0 3px 3px;
+    border: 1px solid #ebebeb;
+}
+.frontend_dropdown_menu .dropdown-toggle:after {
+    width: 0;
+    height: 0;
+    margin-left: .255em;
+    vertical-align: 1px;
+    content: "";
+    border-top: .3em solid #ebebeb;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+}
+
+.listing-window::after {
+    background: white;
+    box-shadow: -2px 2px 2px 0 rgba(178,178,178,.4);
+    content: "";
+    height: 15px;
+    left: 130px;
+    position: absolute;
+    bottom: -14px;
+    transform: translate(-50%,-50%) rotate(-45deg);
+    width: 15px;
+}

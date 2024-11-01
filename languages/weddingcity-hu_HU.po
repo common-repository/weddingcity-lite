@@ -1,0 +1,2852 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Project-Id-Version: igenhazasodunk.hu\n"
+"Language: hu_HU\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-19 18:25+0000\n"
+"PO-Revision-Date: 2019-05-27 10:18+0000\n"
+"Last-Translator: hiteshmahavar22@gmail.com\n"
+"Language-Team: Magyar\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid " - Give a review."
+msgstr "- Nézd át."
+
+#. Text in function
+#: weddingcity/templates/forgot-password/index.php:1
+msgid " Security code not found."
+msgstr "A biztonsági kód nem található."
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "#1"
+msgstr "#1"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "#2"
+msgstr "#2"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "#3"
+msgstr "#3"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:379
+#: weddingcity/modules/listing/index.php:1652
+msgid "$"
+msgstr "Ft"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1066
+msgid "%1$s average based on %2$s ratings."
+msgstr "%1$s átlag %2$ s értékelés alapján."
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "%1$s budget removed!"
+msgstr "%1$ költségkeret eltávolítva!"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "(Outside from our website)"
+msgstr "(A honlapunkon kívül)"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1652
+msgid "+"
+msgstr "+"
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:235
+msgid "1. Enter your email address"
+msgstr "1. Add meg az e-mail címedet"
+
+#. Text in echo
+#: weddingcity/modules/couple-dashboard/index.php:288
+msgid "15 Seat remain"
+msgstr "15 Ülés marad"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "2"
+msgstr "2"
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:236
+msgid "2. Wait for your recovery details to be sent."
+msgstr "2. Várd meg a helyreállítási adatok elküldését."
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "3"
+msgstr "3"
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:237
+msgid "3. Follow as given instructions in your mail account."
+msgstr "3. Kövesd az e-mail fiókban megadott utasításokat."
+
+#. Text in echo
+#: weddingcity/modules/couple-dashboard/index.php:287
+msgid "300"
+msgstr "300"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "5"
+msgstr "5"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "6"
+msgstr "6"
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "About"
+msgstr "Bemutatkozó"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "About Business"
+msgstr "A szolgáltatásról"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+#: weddingcity/modules/listing/index.php:1652
+#: weddingcity/modules/add-listing/index.php:1
+msgid "About Listing"
+msgstr "Általános információ"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "About Us"
+msgstr "Rólunk"
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+#: weddingcity/modules/couple-guest-list/index.php:315
+msgid "Accepted"
+msgstr "Elfogadta"
+
+#. Text in echo
+#: weddingcity/modules/listing/index.php:1647
+msgid "Accommodations / Amenities Included"
+msgstr "Kiemelt szolgáltatások"
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "Action"
+msgstr "Művelet"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Actions"
+msgstr "Műveletek"
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Active"
+msgstr "Aktív"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Actual"
+msgstr "Tényleges"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Add Budget Category"
+msgstr "KÖLTSÉG KATEGÓRIA HOZZÁADÁSA"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Add Budget category"
+msgstr "Költség kategória hozzáadása"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Add New"
+msgstr "ÚJ HOZZÁADÁSA"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:277
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Add New Guest"
+msgstr "Új vendég hozzáadása"
+
+#. Text in echo
+#: weddingcity/modules/listing/index.php:227
+#: weddingcity/modules/add-listing/index.php:1
+msgid "Add New Listing"
+msgstr "ÚJ SZOLGÁLTATÁS HOZZÁADÁSA"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Add New Member"
+msgstr "ÚJ SZEMÉLY HOZZÁADÁSA"
+
+#. Text in echo
+#: weddingcity/modules/couple-todo/index.php:620
+msgid "Add New Task"
+msgstr "ÚJ FELADAT HOZZÁADÁSA"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Add Vednor information you used from other vendors."
+msgstr "Adjon hozzá más gyártóktól használt Vednor információkat."
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Add Vendors Information"
+msgstr "Esküvői szolgáltatóim hozzáadása"
+
+#. Text in echo
+#: weddingcity/modules/couple-budget-planner/index.php:507
+msgid ""
+"Add your budget category and Start filling your estimate and actual cost "
+"then add paid cost will automatically calculate your pending cost."
+msgstr ""
+"Adj hozzá egy új költségkategóriát (pl: fotós), majd add meg mennyit "
+"tervezel költeni rá. Ha már tudod biztosan mennyibe fog kerülni, akkor add "
+"meg a tényleges árat. A \"fizetett\" oszlopban a már kifizetett díjat tudod "
+"rögzíteni, míg a \"függőben lévő\" tételek a még hátralévő kifizetendő "
+"díjakat jelölik. "
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:1
+msgid ""
+"Add your business listing with under list category, title, descriptions, "
+"google map, gallery and featured image, etc.."
+msgstr ""
+"Add hozzá a vállalat szolgáltatásait, a lista kategóriát, címet, leírásokat, "
+"google térképet, galériát és kiemelt képet stb. "
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Address"
+msgstr "Cím"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Address Line 1"
+msgstr "Utca"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Address Line 2"
+msgstr "Házszám"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:379
+msgid "Advance Option"
+msgstr "Előzetes opció"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:933
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Amenities"
+msgstr "Felszerelés"
+
+#. Text in echo
+#: weddingcity/modules/social-login-user-verify/index.php:281
+msgid "Are you couple ?"
+msgstr "Jegyespár vagytok?"
+
+#. Text in echo
+#: weddingcity/modules/social-login-user-verify/index.php:287
+msgid "Are you vendor ?"
+msgstr "Esküvőszolgáltató vagy?"
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "Availability"
+msgstr "Elérhetőség"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:478
+msgid "Average Ratings"
+msgstr "Értékelések átlaga"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Both"
+msgstr "Mindkettő"
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:488
+msgid "Browse 33,000 vendor profile and reviews."
+msgstr ""
+"Böngéssz több mint 40 kategóriában, és nézd meg a szolgáltatókról írt "
+"véleményeket."
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid ""
+"Browse the best wedding vendors in your area — from venues and photographers,"
+" to wedding planners, caterers, florists and more."
+msgstr ""
+"Böngéssz a legjobb esküvői szolgáltatók közül, akár helyszínre szűrve - "
+"esküvőhelyszínektől a ceremóniamesterektől, a fotósokig, ékszer szalonokig, "
+"virágüzletekig és sok másig."
+
+#. Text in echo
+#: weddingcity/modules/couple-budget-planner/index.php:314
+#: weddingcity/modules/couple-dashboard/index.php:172
+msgid "Budget"
+msgstr "Költségvetés"
+
+#. Text in echo
+#: weddingcity/modules/couple-budget-planner/index.php:315
+#: weddingcity/modules/couple-budget-planner/index.php:506
+msgid "Budget Details"
+msgstr "Költségvetés részletei"
+
+#. Text in echo
+#: weddingcity/modules/couple-budget-planner/index.php:339
+msgid "Budget Estimator"
+msgstr "Költség kalkulátor"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Budget planner"
+msgstr "Költségvetés tervező"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid "Business Profile"
+msgstr "A szolgáltató profilja"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid ""
+"Business Profile Update Error... Please login again then update your profile."
+msgstr ""
+"Üzleti profil frissítési hiba ... Kérjük, jelentkezz be újra, majd frissítsd "
+"a profilodat."
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid "Business Profile Update Successfully"
+msgstr "Az üzleti profil frissítve"
+
+#. Text in echo
+#: weddingcity/templates/vendor-login/index.php:451
+msgid "Business Register"
+msgstr "A szolgáltató regisztrációja"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Business Video"
+msgstr "Szolgáltató videója"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Business name"
+msgstr "A szolgáltató üzleti neve"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Button Text Here"
+msgstr "Gomb szöveg itt"
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:1
+msgid "Can you attend ?"
+msgstr "Részt tudsz venni?"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Category Name"
+msgstr "Kategória neve"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Cateogry"
+msgstr "Kategória"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Change Password"
+msgstr "JELSZÓ MÓDOSÍTÁSA"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid "Change your profile image and information edit and save."
+msgstr "Frissítsd a profilképeket és bemutatkozódat. Szerkeszd és mentsd el."
+
+#. Text in echo
+#: weddingcity/modules/user-profile/vendor-profile.php:789
+#: weddingcity/modules/user-profile/couple-profile.php:568
+msgid "Changes your Email Notifications"
+msgstr "Az e-mail értesítések módosítása"
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+msgid "Check your business listing request quotes."
+msgstr "Nézd meg a hozzád érkezett kérdéseket és  árajánlatkéréseket!"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1
+msgid "Check your business listing reviews."
+msgstr ""
+"Ellenőrizd a szolgáltatásaidról kapott értékeléseket. Az esetleges negatív "
+"értékeléseket az oldal adminisztrátor ellenőrzi és kivizsgálja az oldalon "
+"való megjelenítés előtt. "
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/invoice-details.php:1
+msgid "Check your payments list quotes."
+msgstr ""
+"Tekintsd át a kifizetett számláid listáját! Bármi észrevételed van a "
+"számlázással kapcsolatban, kérlek jelezd az oldal adminisztrátor felé. "
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Choose Banner image"
+msgstr "A borítókép feltöltéséhez kattints ide!"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Choose Featured image"
+msgstr "A profilkép feltöltéséhez kattints ide!"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Choose Slider Image Here :"
+msgstr "Válassza ki a csúszka képét itt:"
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Choose wisely your pricing plan."
+msgstr "Válassz okosan az együttműködési konstrukcióink közül. "
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "City"
+msgstr "Város"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid ""
+"Class aptent taciti sociosqu ad litora torquent per conubia nostra, per "
+"inceptos himenaeos."
+msgstr ""
+"Adj hozzá új vendéget. Készítsd el az esküvői vendéglistádat az alábbi "
+"táblázatkezelő segítségével."
+
+#. Text in function
+#: weddingcity/templates/forgot-password/index.php:307
+msgid "Click here"
+msgstr "Kattints ide"
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "Compare &amp; Finalize"
+msgstr "Összehasonlítások és véglegesítések"
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "Complete"
+msgstr "Befejezett"
+
+#. Text in echo
+#: weddingcity/modules/social-login-user-verify/index.php:322
+msgid "Configure Your Credentials"
+msgstr "A hitelesítő adatok konfigurálása"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Content Management"
+msgstr "Tartalomkezelés"
+
+#. Text in function
+#: weddingcity/modules/couple-real-wedding/index.php:245
+msgid "Contributing Vendors"
+msgstr "Közreműködő szolgáltatók"
+
+#. Text in echo
+#: weddingcity/modules/wedding-website/index.php:76
+msgid "Copy URL"
+msgstr "URL MÁSOLÁSA"
+
+#. Text in echo
+#: weddingcity/modules/wedding-website/index.php:76
+msgid "Copy to clipboard"
+msgstr "Másolja a vágólapra"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Country"
+msgstr "Ország"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:877
+msgid "Couple"
+msgstr "Párjával érkezik"
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:1
+msgid "Couple Dashboard"
+msgstr "Jegyespár fiókja"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Couple Guest"
+msgstr "Párjával érkező vendég"
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:303
+msgid "Couple Login"
+msgstr "Jegyes pár belépése"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+msgid "Couple Member"
+msgstr "Párral érkező személyek"
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Couple Profile"
+msgstr "Jegyes párok profilja"
+
+#. Text in echo
+#: weddingcity/modules/couple-todo/index.php:605
+msgid "Create Task"
+msgstr "Feladat létrehozása"
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Create Your wedding website and share with your friend and family."
+msgstr ""
+"Ha az egyik meghívottad véletlenül elveszítette a visszaigazoló linket "
+"tartalmazó meghívó e-mailt, amelyet a vendéglista menedzseren keresztül "
+"küldtél neki, akkor sincsen semmi gond. Másold ki az alábbi URL címet, és "
+"oszd meg vele újra!"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+msgid ""
+"Create and manage your wedding planning checklist. Its ultimate and real "
+"simple."
+msgstr ""
+"Itt tudod elkészíteni az esküvői feladatlistádat. Adj hozzá minden teendőt, "
+"és pipáld ki az elvégzetteket!"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1
+msgid ""
+"Create your wedding business listing on %1$s to start building customers."
+msgstr ""
+"Az ügyfelek építésének megkezdéséhez hozd létre az esküvői üzleti listájádat "
+"%1$s weboldalán"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "DELETE"
+msgstr "TÖRLÉS"
+
+#. Text in function
+#: weddingcity/templates/dashboard/index.php:244
+msgid "Dashboard Page Error.."
+msgstr "Dashboard oldalhiba .."
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+#: weddingcity/modules/couple-guest-list/index.php:315
+msgid "Declined"
+msgstr "Elutasította"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/user-profile/couple-profile.php:466
+#: weddingcity/modules/user-profile/couple-profile.php:577
+msgid "Delete Account"
+msgstr "Fiók törlése"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Description"
+msgstr "Leírás"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Descriptions"
+msgstr ""
+"FONTOS! A profilod frissítéséhez írj rövid bemutatkozót! Ennek a mezőnek a "
+"kitöltése KÖTELEZŐ ahhoz, hogy tovább tudj haladni a profilod "
+"szerkesztésében. "
+
+#. Text in function
+#: weddingcity/elementor/divider/index.php:1
+msgid "Divider"
+msgstr "Osztó"
+
+#. Text in echo
+#: weddingcity/modules/couple-todo/index.php:695
+msgid "Edit Task"
+msgstr "Feladat szerkesztése"
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:506
+#: weddingcity/templates/forgot-password/index.php:255
+#: weddingcity/templates/vendor-login/index.php:469
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/listing-request/index.php:276
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Email"
+msgstr "E-mail"
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/invoice-details.php:174
+#: weddingcity/modules/vendor-invoice/invoice-details.php:194
+msgid "Email :"
+msgstr "E-mail :"
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:256
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Email Address"
+msgstr "E-mail cím"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Email Notifications"
+msgstr "Email értesítések"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Email already exists."
+msgstr "Ez már egy létező e-mail cím."
+
+#. Text in function
+#: weddingcity/templates/forgot-password/index.php:1
+msgid "Email does not exists in users list."
+msgstr "Ez az e-mail cím már nem létezik a felhasználók listájában."
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Email field is empty"
+msgstr "Üres az e-mail mező "
+
+#. Text in echo
+#: weddingcity/modules/couple-rsvp/index.php:637
+msgid "Enter Email Address"
+msgstr "Add meg az e-mail címedet"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Enter display listings."
+msgstr "Adja meg a megjelenítési listákat."
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Enter your Description"
+msgstr "Adja meg a leírást"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Enter your title"
+msgstr "Add meg címet"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "Error. Review id not found..."
+msgstr "Hiba. A felülvizsgálati azonosító nem található ..."
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:1
+msgid "Error..."
+msgstr "Hiba..."
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Estimate"
+msgstr "Tervezett"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Ex. Photography"
+msgstr "Pl: Esküvői fotós"
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Expired"
+msgstr "Lejárt"
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Expired:"
+msgstr "Lejárt:"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Extra Large Device"
+msgstr "Extra méretű eszköz"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Facebook"
+msgstr "Facebook"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1083
+msgid "Facilities"
+msgstr "Válaszadási idő"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:933
+msgid "Featured Listing ?"
+msgstr "Kiemelt Listing?"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Filter With City"
+msgstr "Szűrés városra"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Filter With Country"
+msgstr "Szűrés országra"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Filter With State"
+msgstr "Szűrés megyére"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Find the Perfect Wedding Vendor"
+msgstr "Keresse meg a tökéletes esküvő eladó"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "First Name"
+msgstr "Vezetéknév"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1083
+msgid "Flexibility"
+msgstr "Rugalmasság"
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:233
+msgid "Follow these simple steps to reset your account:"
+msgstr "A fiók visszaállításához kövesd az alábbi egyszerű lépéseket:"
+
+#. Text in function
+#: weddingcity/templates/forgot-password/index.php:307
+msgid "Forgot Your Password ?"
+msgstr "Elfelejtetted a jelszavad?"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Form Field Management"
+msgstr "Űrlapmező kezelése"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Form Submit Button Text"
+msgstr "Űrlapküldés gomb szövege"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "From Our website"
+msgstr "Honlapunkról"
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "Gallery"
+msgstr "Galéria"
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:260
+msgid "Get New Password"
+msgstr "ÚJ JELSZÓT KAPSZ"
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:309
+msgid "Get Transaction Details Failed"
+msgstr "Tranzakció részletei meghiúsultak"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Group"
+msgstr "Csoport"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:1785
+msgid "Group/Family"
+msgstr "Csoport / Család"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:379
+#: weddingcity/modules/listing/index.php:1652
+msgid "Guest"
+msgstr "Vendég"
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "Guest List"
+msgstr "Vendéglista"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Guest Name"
+msgstr "Név"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1
+msgid "Guest Removed Successfully!"
+msgstr "Az esküvővendég sikeresen eltávolítva!"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1
+msgid ""
+"Guest manager allows you to take your guest management for wedding events."
+msgstr ""
+"A vendéglista menedzser lehetővé teszi, hogy meghívd a vendégeidet, és "
+"kezeld a visszajelzéseiket. Így tudhatod, hogy kinek a részvételére "
+"számíthatsz. A meghívókat úgy tudod kiküldeni, hogy minden egyes vendégnél a "
+"\"kiküldve\" oszlopban található karikát kattintással kipipálod. Ezt "
+"követően a meghívott vendégeid e-mailben megkapják az elektonikus meghívót, "
+"amit azonnal vissza is tudnak igazolni. "
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:315
+msgid "Guests"
+msgstr "Vendégek"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "Hello %1$s, You already review for this listing."
+msgstr "Hello%1$s, már felülvizsgálja ezt a listaelemet."
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "Hello %1$s, You can not review for listing."
+msgstr "Hello%1$s, nem lehet áttekinteni a tőzsdei jegyzésre."
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "Hello %1$s, You can not review for your own listing."
+msgstr "Hello%1$s, nem tudja áttekinteni a saját tőzsdei jegyzésre."
+
+#. Text in function
+#: weddingcity/modules/vendor-dashboard/index.php:1
+msgid "Hi, Vendor."
+msgstr "Helló, Esküvőszolgáltató!"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "HouseHold Guest"
+msgstr "Családdal érkező vendégek"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:877
+msgid "Household"
+msgstr "Családdal érkező"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Household Guest"
+msgstr "Családdal érkező vendégek"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Household Member"
+msgstr "Családdal érkező személyek"
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:1
+msgid "Household Names"
+msgstr "Családdal érkezők nevei"
+
+#. Text in echo
+#: weddingcity/modules/update-listing/index.php:593
+msgid "If you want to show this listing as a Featured Listing ?"
+msgstr "Ha meg szeretné mutatni ezt a tőzsdei, mint a Kiemelt lista?"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Instagram"
+msgstr "Instagram"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1
+msgid "Invitation Send Successfully!"
+msgstr "Meghívás sikeresen elküldve!"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Invite Sent"
+msgstr "Kiküldve"
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/invoice-details.php:1
+msgid "Invoice List"
+msgstr "Számlatörténet"
+
+#. Text in echo
+#: weddingcity/modules/couple-budget-planner/index.php:340
+msgid ""
+"Its simple and powerful wedding budget calculator will help you to estimate, "
+"actual and paid wedding cost."
+msgstr ""
+"A költségkalkulátorban rögzítheted az egyes szolgáltatásokra szánt "
+"összegeket, illetve a végül ténylegesen kifizetett díjakat. "
+
+#. Text in echo
+#: weddingcity/templates/vendor-login/index.php:519
+msgid ""
+"Join Weddingsto get your business listed or to claim your listing for FREE!"
+msgstr ""
+"Csatlakozz az esküvő oldalunkhoz, és mutasd be a szolgáltatásaidat, hogy "
+"minél többen rád találjanak!"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Large Device"
+msgstr "Extra méretű eszköz"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Last Name"
+msgstr "Keresztnév"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Latitude"
+msgstr "Szélességi kör"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Listing"
+msgstr "felsorolás"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Listing Categories :"
+msgstr "Esküvő kategóriák:"
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:842
+msgid "Listing Featured Image"
+msgstr "Kiemelt kép listázása"
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:842
+msgid "Listing Gallery"
+msgstr "Listázó galéria"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Listing Information"
+msgstr "Listázási információk"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:379
+msgid "Listing Not Found.."
+msgstr "Sajnos, nincs találat. "
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:842
+msgid "Listing Video Link"
+msgstr "Videohivatkozás listázása"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1
+msgid "Listing id not set Properly!."
+msgstr "A listázási azonosító nincs megfelelően beállítva !."
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "Listings"
+msgstr "Szolgáltatások"
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "Live Documentation"
+msgstr "Élő dokumentáció"
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "Location"
+msgstr "Települések"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1452
+msgid "Location - Map"
+msgstr "Helyszín -térkép"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Location Filter ? :"
+msgstr "Helyszűrő? :"
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:468
+#: weddingcity/templates/couple-login/index.php:567
+#: weddingcity/templates/vendor-login/index.php:432
+#: weddingcity/templates/vendor-login/index.php:540
+msgid "Login"
+msgstr "Belépés"
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Login successful, redirecting..."
+msgstr "Sikeres bejelentkezés, átírányítás..."
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:546
+msgid ""
+"Login your account and manage your Wishlist, Todo, Budget, RSVP, Guest List, "
+"etc.."
+msgstr ""
+"Jelentkezz be a fiókodba, és mentsd el a kedvenc szolgáltatóidat, készíts "
+"feladatlistát, tervezd meg a költségvetésedet, és kezeld a vendéglistádat..."
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Longitude"
+msgstr "Hosszúság"
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:232
+msgid "Lost Password"
+msgstr "Elfelejtett jelszó"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Map Address"
+msgstr "Térképcím"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Map Position :"
+msgstr "Térképhelyzet:"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Medium Device"
+msgstr "Közepes eszköz"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "Member"
+msgstr "Személyek"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Mention Slider Lists Here :"
+msgstr "A Slider Lists itt:"
+
+#. Text in echo
+#: weddingcity/modules/couple-guest-list/index.php:271
+msgid "My Guest List"
+msgstr "Saját vendéglistám"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1
+msgid "My Guest Manager"
+msgstr "Vendéglista menedzserem"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1
+msgid "My Listing"
+msgstr "Szolgáltatói listám"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "My Profile"
+msgstr "Szolgáltatói profil"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+#, fuzzy
+msgid "My To Do List"
+msgstr "Saját teendőim listája"
+
+#. Text in function
+#: weddingcity/modules/couple-wishlist/index.php:1
+msgid "My Wishlist"
+msgstr "Kedvenc szolgáltatóim "
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/listing-request/index.php:269
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Name"
+msgstr "Teljes név"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "New Password and confirm password does not match."
+msgstr "Új jelszó és megerősített jelszó nem egyezik."
+
+#. Text in function
+#: weddingcity/modules/couple-real-wedding/index.php:624
+msgid "Next Real Wedding"
+msgstr "Következő esküvő megtekintése"
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:309
+msgid "Note your transaction number for future reference for paypal"
+msgstr "Jegyezd fel a tranzakciószámát a paypal jövőbeni hivatkozásához"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Number of listing ?"
+msgstr "A felsorolás száma?"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Old Password is not correct."
+msgstr "A régi jelszó nem megfelelő."
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "On RSVP form in your website page"
+msgstr "RSVP-űrlapon az Ön weboldalán"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Outside Website"
+msgstr "Honlapon kívüli"
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Page Header Banner"
+msgstr "Visszaigazoló oldal borítóképének feltöltéséhez kattints ide!"
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Page Header Image"
+msgstr "Visszaigazoló oldal borítóképe"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Paid"
+msgstr "Fizetett"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Partner First Name"
+msgstr "Vendég partnerének vezetékneve"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Partner Last Name"
+msgstr "Vendég partnerének keresztneve"
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:563
+#: weddingcity/templates/vendor-login/index.php:536
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Password"
+msgstr "Jelszó"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Password Change"
+msgstr "Jelszó változtatás"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Password Updated. Please login again."
+msgstr "Jelszó frissítve. Kérjük, jelentkezz be újra."
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Pending"
+msgstr "Függőben levő"
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/listing-request/index.php:283
+msgid "Phone"
+msgstr "Telefon"
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/invoice-details.php:176
+#: weddingcity/modules/vendor-invoice/invoice-details.php:196
+msgid "Phone :"
+msgstr "Telefon:"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Phone Number"
+msgstr "Telefonszám"
+
+#. Text in echo
+#: weddingcity/modules/vendor-invoice/invoice-details.php:207
+msgid "Plan Name"
+msgstr "Szerződés neve"
+
+#. Text in echo
+#: weddingcity/modules/vendor-pricing/index.php:185
+msgid "Plan Type:"
+msgstr "Szerződés választása:"
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Please check your inbox or spam/junk and get your password"
+msgstr ""
+"Kérjük, ellenőrizd a bejövő postafiókodat vagy a spamet, és nézd meg a "
+"jelszavadat"
+
+#. Text in echo
+#: weddingcity/modules/couple-rsvp/index.php:636
+msgid "Please enter your email."
+msgstr "Kérlek, írd be az e-mail címedet."
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:1
+msgid ""
+"Please login as vendors then you can process it. We process for logout "
+"action..."
+msgstr ""
+"Kérjük, jelentkezz be, majd elkezdhetsz dolgozni. A bejelentkezési művelet "
+"elindítása ..."
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Please provide correct email."
+msgstr "Kérjük, add meg a helyes e-mail címedet."
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "Postcode"
+msgstr "Irányítószám"
+
+#. Text in function
+#: weddingcity/modules/couple-real-wedding/index.php:624
+msgid "Previous Real Wedding"
+msgstr "Előző esküvő megtekintése"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/vendor-invoice/invoice-details.php:208
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Price"
+msgstr "Ár"
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Pricing Plan"
+msgstr "Árkonstrukció"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid "Profile"
+msgstr "Profil"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Profile Updated Error... Please login again then update your profile."
+msgstr ""
+"Profil frissítési Hiba ... Kérjük, jelentkezz be újra, majd frissítsd a "
+"profilodat."
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Profile Updated Successfully"
+msgstr "Profil sikeresen frissítve"
+
+#. Text in echo
+#: weddingcity/modules/vendor-invoice/invoice-details.php:209
+msgid "Qty"
+msgstr "Mennyiség"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1083
+msgid "Quality Service"
+msgstr "Minőség"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "RSVP"
+msgstr "Visszajelzések"
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "RSVP Form"
+msgstr "Visszaigazoló űrlap"
+
+#. Text in echo
+#: weddingcity/modules/wedding-website/index.php:133
+msgid "RSVP Setting"
+msgstr "Visszaigazoló oldal beállítása"
+
+#. Text in echo
+#: weddingcity/modules/blog-article/index.php:106
+msgid "Read more"
+msgstr "Bővebben"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:1
+msgid "Real Wedding"
+msgstr "Esküvői albumotok"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:207
+msgid "RealWedding Setting"
+msgstr "Esküvői fotóalbumotok beállítása"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:1
+msgid "RealWedding Uploaded Successfully!"
+msgstr "Esküvői fotóalbumotok sikeresen feltöltve!"
+
+#. Text in function
+#: weddingcity/modules/couple-real-wedding/index.php:245
+msgid "Recent Real Wedding"
+msgstr "Legutóbbi esküvők "
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "Recommended Hosting"
+msgstr "Ajánlott tárhely"
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:465
+#: weddingcity/templates/vendor-login/index.php:429
+msgid "Register"
+msgstr "Regisztráció"
+
+#. Text in echo
+#: weddingcity/modules/texonomy-meta/index.php:92
+msgid "Remove Image"
+msgstr "Kép eltávolítása"
+
+#. Text in echo
+#: weddingcity/modules/single-vendor/index.php:137
+msgid "Request A Quote"
+msgstr "Árajánlatkérés"
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+msgid "Request List"
+msgstr "Árajánlat és kérdések listája"
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:263
+msgid "Request Quote"
+msgstr "Ajánlat kérése"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Responsive Listing Item Show"
+msgstr "Érzékeny listaelem megjelenítése"
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+#: weddingcity/modules/listing-reviews/index.php:1
+#: weddingcity/modules/listing-reviews/index.php:478
+#: weddingcity/modules/listing-reviews/index.php:1049
+#: weddingcity/modules/listing-reviews/index.php:1062
+msgid "Reviews"
+msgstr "Vélemények és értékelések"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Save Couple Guest Details"
+msgstr "PÁRRAL ÉRKEZŐ VENDÉG ADATAINAK MENTÉSE"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Save Household Guest Details"
+msgstr "CSALÁDDAL ÉRKEZŐ VENDÉG MENTÉSE"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Save Single Guest Details"
+msgstr "EGYEDÜL ÉRKEZŐ VENDÉG MENTÉSE"
+
+#. Text in echo
+#: weddingcity/elementor/slider/index.php:1
+#: weddingcity/modules/listing/index.php:379
+msgid "Search"
+msgstr "Keresés"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Seat Capacity"
+msgstr "Ülő kapacitás"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:1
+msgid "Security Error.."
+msgstr "Biztonsági hiba .."
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Select Category"
+msgstr "Válassz kategóriát"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Select City"
+msgstr "Válassz várost"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Select Column Grid :"
+msgstr "Válassza az Oszlop rácsot:"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Select Country"
+msgstr "Válassz országot"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Select Location :"
+msgstr "Hely kiválasztása:"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Select State"
+msgstr "Válassz megyét"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:624
+msgid "Select Task Date"
+msgstr "Válaszd ki a feladat dátumát"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Select vendor. Type your vendor name and hit the enter."
+msgstr "Add meg a kedvenc szolgáltatóid, és nyomd meg az Enter billentyűt."
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:315
+msgid "Send Email"
+msgstr "Küldj e-mailt"
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "Send to Theme Options"
+msgstr "Küldés a témára"
+
+#. Text in echo
+#: weddingcity/modules/wedding-website/index.php:69
+msgid "Settings"
+msgstr "Új visszaigazoló link"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1452
+msgid "Share Listing"
+msgstr "Megosztás lista"
+
+#. Text in echo
+#: weddingcity/modules/real-wedding/index.php:244
+msgid "Show Public"
+msgstr "A jobboldali gomb megnyomásával tedd nyilvánossá az albumodat!"
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:516
+#: weddingcity/templates/vendor-login/index.php:489
+msgid "Sign up"
+msgstr "Regisztrálj"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1452
+msgid "Similar Vendor"
+msgstr "Hasonló esküvői szolgáltató"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:877
+msgid "Single"
+msgstr "Egyedül érkező "
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "Single Guest"
+msgstr "Egyedül érkező vendég"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Slider Number"
+msgstr "Csúszka szám"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Social Media"
+msgstr "Social Média"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid ""
+"Social Media Updated Error... Please login again then update your profile."
+msgstr ""
+"Social média Frissítési hiba ... Kérjük, jelentkezz be újra, majd frissítsd "
+"a profilodat."
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Social Media Updated Successfully"
+msgstr "A social média sikeresen frissült"
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:172
+msgid "Spent $"
+msgstr "Kifizetettél:  Ft"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1083
+msgid "Staff"
+msgstr "Személyzet"
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:1
+msgid "Staretd:"
+msgstr "Kezdő dátum::"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:379
+#: weddingcity/modules/listing/index.php:1652
+msgid "Start From"
+msgstr "Ártól"
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Start Your RSVP Form"
+msgstr "Tedd elérhetővé az űrlapot a jobb oldali gomb megnyomásával"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid ""
+"Start your wedding budget with the Wedding budget planner estimator tool."
+msgstr ""
+"Itt megtevezheted az esküvőd költségvetését. Adj hozzá minden tervezett "
+"kiadást, és kísérd figyelemmel a pénzügyeidet! "
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/couple-guest-list/add-guest.php:1560
+#: weddingcity/modules/couple-guest-list/update-guest.php:554
+msgid "State"
+msgstr "Megye"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+#: weddingcity/modules/vendor-pricing/index.php:201
+msgid "Status"
+msgstr "Állapot"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Story Description"
+msgstr "Esküvőtök története"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Street Address."
+msgstr "Cím"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Street address"
+msgstr "Cím"
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:1
+#: weddingcity/modules/couple-rsvp/index.php:645
+msgid "Submit"
+msgstr "ELKÜLDVE"
+
+#. Text in echo
+#: weddingcity/modules/add-listing/index.php:918
+msgid "Submit Listing"
+msgstr "Listázás beküldése"
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:310
+msgid "Submit Quote"
+msgstr "AJÁNLAT ELKÜLDÉSE"
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:706
+msgid "Submit review"
+msgstr "VÉLEMÉNY ELKÜLDÉSE"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:624
+msgid "Submit to do"
+msgstr "FELADAT HOZZÁADÁSA"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:1
+msgid ""
+"Submit your real wedding photos and vendor details. Share your story of big "
+"the day."
+msgstr ""
+"Írd meg a szerelmetek történetét, oszd meg a legszebb esküvői vagy jegyes "
+"fotóitokat, és ajánld azokat a szolgáltatókat, akikkel a leginkább elégedett "
+"voltál. A legszebb történeteket ajándékkal jutalmazzuk, a nyerteseket e-"
+"mailben értesítjük. "
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "Successfully Update"
+msgstr "Sikeresen frissítve"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:1
+msgid "Successfully Updated!"
+msgstr "Sikeresen frissítve!"
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "Support"
+msgstr "Támogatás"
+
+#. Text in echo
+#: weddingcity/modules/couple-dashboard/index.php:286
+msgid "Table Seating"
+msgstr "Asztal ülések"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+#: weddingcity/modules/couple-todo/index.php:624
+msgid "Task Date"
+msgstr "Feladat dátuma"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+#: weddingcity/modules/couple-todo/index.php:624
+msgid "Task Title"
+msgstr "Feladat megnevezése"
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:1
+msgid "Thanks for RSVP!"
+msgstr "Köszönjük a visszajelzést!"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "The new password is blank"
+msgstr "Az új jelszó üres"
+
+#. Text in function
+#: weddingcity/modules/couple-wishlist/index.php:1
+msgid ""
+"The wishlist is great way to keep track your wedding vendor and their "
+"service availablity in your wishlist board."
+msgstr ""
+"A kedvenc szolgáltató lista: nagyszerű módja annak, hogy nyomon kövessed az "
+"esküvő szolgáltatókat és szolgáltatásait a kedvenc szolgáltatői listádban."
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "This Email already exists"
+msgstr "Ez az e-mail már létezik"
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "This Username already exists"
+msgstr "Ez a felhasználónév már létezik"
+
+#. Text in echo
+#: weddingcity/modules/single-vendor/index.php:305
+msgid "This vendor can not publish any post."
+msgstr "Ez az esküvőszolgáltató nem tud közzétenni semmilyen bejegyzést."
+
+#. Text in echo
+#: weddingcity/modules/vendor-pricing/index.php:193
+msgid "Time Duration"
+msgstr "Időtartam"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Title"
+msgstr "Cím"
+
+#. Text in echo
+#: weddingcity/modules/vendor-invoice/invoice-details.php:180
+msgid "To:"
+msgstr "Nak nek"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "Todo Removed Successfully!"
+msgstr "A feladatot sikeresen eltávolítottad!"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "Todo Task Done!"
+msgstr "A feladat elvégezve!"
+
+#. Text in echo
+#: weddingcity/modules/vendor-invoice/invoice-details.php:210
+#: weddingcity/modules/vendor-invoice/invoice-details.php:234
+msgid "Total"
+msgstr "Összes"
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "Total To Do"
+msgstr "Összes feladatlista"
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:309
+msgid "Transaction Complete, but payment is still pending!"
+msgstr "Tranzakció befejezve, de a fizetés még folyamatban van!"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Twitter"
+msgstr "Twitter"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+msgid "Update Business Profile"
+msgstr "ÜZLETI PROFIL FRISSÍTÉSE"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Couple Guest"
+msgstr "Jegyes pár vendégeinek frissítése"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Couple Guest Details"
+msgstr "Párjával érkező vendégadatok frissítése"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update HouseHold Guest"
+msgstr "Családdal érkező vendégek frissítve"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Household Guest Details"
+msgstr "Családdal érkező vendégek frissítése"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+#: weddingcity/modules/update-listing/index.php:432
+msgid "Update Listing"
+msgstr "Esküvői szolgáltatói lista frissítése"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Update Profile"
+msgstr "PROFIL FRISSÍTÉSE"
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Update RSVP Setting"
+msgstr "VISSZAIGAZOLÓ OLDAL  FRISSÍTÉSE"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Single Guest"
+msgstr "Egyedül érkező vendég frissítése"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Single Guest Details"
+msgstr "Egyedül érkező vendégadat frissítése"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:1
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Update Social Profile"
+msgstr "SOCIAL PROFIL FRISSÍTVE"
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Update Wedding Information"
+msgstr "FRISSÍTSD AZ ESKÜVŐI INFORMÁCIÓKAT"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Update Your Guest Data"
+msgstr "Frissítse vendégadatait"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+msgid ""
+"Update your business listing with under list category, title, descriptions, "
+"google map, gallery and featured image, etc.."
+msgstr ""
+"Frissítsd a vállalat szolgáltatásait, a lista kategóriát, címet, leírásokat, "
+"google térképet, galériát és kiemelt képet stb. "
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid ""
+"Update your wedding information, profile photo, and personal informations."
+msgstr ""
+"Frissítsd az esküvőd részleteit, profil fotódat, és személyes infoidat."
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Upload Background Image for Video Play"
+msgstr "Fájl feltöltése a videó lejátszásához"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Upload Brand Icon"
+msgstr "Logó feltöltés"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Upload Featured Image"
+msgstr "Profilkép feltöltése"
+
+#. Text in function
+#: weddingcity/elementor/divider/index.php:1
+#: weddingcity/modules/texonomy-meta/index.php:91
+msgid "Upload Image"
+msgstr "Kép feltöltése"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Upload Page Header Banner Image"
+msgstr "Esküvői album borítókép beállítása"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Upload Profile Banner Image"
+msgstr "Profil borítókép feltöltése"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Upload Profile Image"
+msgstr "Profilkép feltöltése"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:477
+msgid "Upload Wedding Gallery"
+msgstr "Esküvői galéria feltöltése"
+
+#. Text in echo
+#: weddingcity/modules/real-wedding/index.php:173
+msgid "Upload Your Real Wedding"
+msgstr "Töltsd fel az esküvői albumodat"
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:500
+#: weddingcity/templates/vendor-login/index.php:463
+msgid "User Name"
+msgstr "Teljes név"
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Username field is empty."
+msgstr "A felhasználónév mező üres."
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:557
+#: weddingcity/templates/vendor-login/index.php:530
+msgid "Username or Email Address"
+msgstr "Felhasználóneved vagy e-mail címed"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1083
+msgid "Value of money"
+msgstr "Ár érték arány"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1652
+#: weddingcity/modules/listing/index.php:1961
+msgid "Vendor Gallery %1$s"
+msgstr "Szállítói gyűjtemény%1$s"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "Vendor Listing"
+msgstr "Kedvenc szolgáltató lista"
+
+#. Text in echo
+#: weddingcity/templates/forgot-password/index.php:304
+msgid "Vendor Login"
+msgstr "Szolgáltató belépés"
+
+#. Text in function
+#: weddingcity/templates/vendor-login/index.php:475
+#: weddingcity/modules/social-login-user-verify/index.php:296
+msgid "Vendor Type"
+msgstr "Válassz kategóriát"
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:305
+msgid "Vendor does not have video.."
+msgstr "Az esküvői szolgáltatónak nincs videója .."
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "Vendors Wishlist"
+msgstr "Kedvenc szolgáltató lista"
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:563
+msgid "Video"
+msgstr "Videó"
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:842
+msgid "Video Link Here"
+msgstr "Videó link itt"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "View"
+msgstr "Megtekint"
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+#: weddingcity/modules/couple-dashboard/index.php:172
+#: weddingcity/modules/couple-dashboard/index.php:290
+msgid "View All"
+msgstr "Összes megtekintése"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1652
+msgid "View Gallery"
+msgstr "Galéria megtekintése"
+
+#. Text in echo
+#: weddingcity/modules/listing/index.php:1945
+msgid "View Map"
+msgstr "Térkép megtekintése"
+
+#. Text in function
+#: weddingcity/modules/blog-article/index.php:215
+msgid "View all posts in %s"
+msgstr "Az összes üzenet megtekintése% s-ban"
+
+#. Text in function
+#: weddingcity/modules/paypal/index.php:1
+msgid "Wait for a moment, you will be redirect on payment gateway."
+msgstr "Várj egy pillanatra, átirányít a fizetési átjárón."
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:315
+msgid "Waiting"
+msgstr "Még nem döntött"
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:489
+msgid "We don't post anything without your permission."
+msgstr "Válogass a legjobb ajánlatok és legmagasabb kedvezmények között."
+
+#. Text in echo
+#: weddingcity/modules/single-vendor/index.php:136
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "Website"
+msgstr "Weboldal"
+
+#. Text in echo
+#: weddingcity/modules/wedding-website/index.php:72
+msgid "Website URL"
+msgstr "Visszaigazoló link URL címe"
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:512
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/listing-request/index.php:290
+#: weddingcity/modules/social-login-user-verify/index.php:315
+msgid "Wedding Date"
+msgstr "Esküvő időpontja"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Wedding Event"
+msgstr "Megnevezés"
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:466
+msgid "Wedding Information"
+msgstr "Esküvő információ"
+
+#. Text in echo
+#: weddingcity/modules/couple-rsvp/index.php:598
+msgid "Wedding RSVP"
+msgstr "Esküvői meghívó visszajelzése"
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:231
+msgid "Wedding Website"
+msgstr "E-meghívó "
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "WeddingCity"
+msgstr "WeddingCity"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "WeddingCity Business"
+msgstr "Esküvői üzlet"
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-interface.php:1
+msgid "WeddingCity Options"
+msgstr "Esküvői szolgáltatások"
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+#: weddingcity/modules/social-login-user-verify/index.php:1
+msgid "Welcome "
+msgstr "Üdvözlünk"
+
+#. Text in function
+#: weddingcity/modules/single-vendor/index.php:305
+msgid "Welcome %1$s"
+msgstr "Üdvözöljük a (z) %1$s"
+
+#. Text in echo
+#: weddingcity/templates/couple-login/index.php:545
+msgid "Welcome Back Couple"
+msgstr "Üdvözlünk újra jegyespár!"
+
+#. Text in echo
+#: weddingcity/templates/vendor-login/index.php:518
+msgid "Welcome Back Vendor"
+msgstr "Üdvözlünk ismét esküvő szolgáltató"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:261
+msgid "Welcome Vendor, You dont have any listing. Add your first listing free."
+msgstr ""
+"Üdvözöljük a Vendor-t, nincsenek listáid. Adja hozzá az első listáját "
+"ingyenesen."
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:1
+msgid ""
+"Welcome couple. You can check and manage your wishlist, checklist, budget "
+"and guestlist overview."
+msgstr ""
+"Sziasztok! Ez itt a saját esküvőszervező fiókotok. Itt elmenthetitek, és "
+"értékelhetitek a kedvenc szolgáltatóitokat, feladalistát és esküvői "
+"költségvetést készíthettek, illetve kezelhetitek a vendéglistátokat. Ha "
+"elakadnátok, akkor kérjétek az Igen, házasodunk e-aszisztensének, Enikőnek a "
+"segítségét, akit a főoldalon találtok meg. "
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:301
+msgid "Write Comment"
+msgstr "Üzenet írása"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "Write Descriptions for your venue"
+msgstr "Írja le a helyszín leírását"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1652
+msgid "Write Review"
+msgstr "Értékelések"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:624
+msgid "Write Task Title"
+msgstr "Feladat megnevezésének írása"
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:691
+msgid "Write Your Review"
+msgstr "Írd le a véleményedet"
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:694
+msgid "Write Your Review Here."
+msgstr "Írj ide."
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:662
+msgid "Write Your Reviews"
+msgstr "Írd meg a véleményedet"
+
+#. Text in echo
+#: weddingcity/modules/real-wedding/index.php:467
+msgid "Write about your wedding journey."
+msgstr ""
+"FONTOS! Röviden írd meg a szerelmetek történetét! Ennek a mezőnek a "
+"kitöltése KÖTELEZŐ! Cserébe a legszebb történeteket értékes ajándékkal "
+"jutalmazzuk. A nyerteseket e-mailben értesítjük.  "
+
+#. Text in function
+#: weddingcity/templates/couple-login/index.php:1
+#: weddingcity/templates/vendor-login/index.php:1
+msgid "Wrong username or password."
+msgstr "Rossz felhasználónév vagy jelszó."
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:1
+msgid "Year"
+msgstr "Év:"
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:1
+msgid "Yes, I will be there"
+msgstr "Igen, ott leszek"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "You Couple Guest is Added Successfully!"
+msgstr "A párjával érkező vendéged sikeresen hozzáadva!"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "You Household Guest is Added Successfully!"
+msgstr "A családdal érkező vendéged sikeresen hozzáadva!"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/add-guest.php:1
+msgid "You Single Guest is Added Successfully!"
+msgstr "Egyedül érkező vendég sikeresen hozzáadva!"
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "You Single Guest is Updated Successfully!"
+msgstr "Egyedül érkező vendég sikeresen frissítve!"
+
+#. Text in function
+#: weddingcity/modules/couple-real-wedding/index.php:382
+msgid "You may also like.."
+msgstr "Talán ezt is szeretnéd megnézni..."
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "You must be login then you can review for this listing."
+msgstr "Be kell jelentkezned, és megnézheted ezt a bejegyzést."
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:366
+msgid "Your Budget Amount"
+msgstr "A költségkeret összege"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:734
+#: weddingcity/modules/listing-reviews/index.php:735
+msgid "Your Email"
+msgstr "Az e-mail címed"
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+msgid "Your Listing"
+msgstr "A szolgáltatásaid"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+#: weddingcity/modules/add-listing/index.php:1
+msgid "Your Listing is Added."
+msgstr "Az Ön listája hozzáadva."
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+#: weddingcity/modules/add-listing/index.php:1
+msgid "Your Listing is Not Added."
+msgstr "A listázás nincs hozzáadva."
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1
+msgid "Your Listing is Removed Successfully!."
+msgstr "Adataid sikeresen el lett távolítva!"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:1
+#: weddingcity/modules/add-listing/index.php:1
+msgid "Your Listing is Updated."
+msgstr "Az adataid frissítése sikeresen megtörtént."
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:728
+#: weddingcity/modules/listing-reviews/index.php:729
+msgid "Your Name"
+msgstr "Neved"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:1161
+msgid "Your Review Send Successfully!"
+msgstr "Véleményed küldése sikeres!"
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:1
+msgid "Your Wedding Information is Saved Sucessfully !"
+msgstr "Az esküvő információk sikeresen mentve!"
+
+#. Text in function
+#: weddingcity/templates/forgot-password/index.php:1
+msgid ""
+"Your password has been reset successfully! Your new password has been sent "
+"to your primary email address."
+msgstr ""
+"A jelszavadat sikeresen visszaállítottuk! Az új jelszavadat elküldtük az "
+"elsődleges e-mail címedre."
+
+#. Text in echo
+#: weddingcity/modules/paypal/index.php:309
+msgid "Your payment has been receive successfully"
+msgstr "A kifizetés sikeresen megérkezett"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "Youtube"
+msgstr "Youtube"
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:598
+msgid "and"
+msgstr "és"
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:598
+msgid "are getting married"
+msgstr "megházasodnak"
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:598
+msgid "at the"
+msgstr "a"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:478
+msgid "average based on"
+msgstr "átlag alapján"
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:1
+#: weddingcity/modules/couple-todo/index.php:484
+#: weddingcity/modules/listing/index.php:261
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "delete"
+msgstr "törlés"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:533
+msgid "e.g. 123 456 7890"
+msgstr "például. 123 456 7890"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "e.g. 23.0732195"
+msgstr "pl. 23,0732195"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/add-listing/index.php:922
+msgid "e.g. 50"
+msgstr "például. 23.0732195"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:605
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+#: weddingcity/modules/add-listing/index.php:922
+msgid "e.g. 72.5646902"
+msgstr "például. 72.5646902"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:484
+#: weddingcity/modules/listing/index.php:261
+#: weddingcity/modules/couple-guest-list/index.php:1096
+#: weddingcity/modules/couple-guest-list/index.php:1469
+msgid "edit"
+msgstr "szerkesztés"
+
+#. Text in function
+#: weddingcity/modules/user-profile/vendor-profile.php:798
+msgid "https://weddingcity.wporganic.com"
+msgstr "https://igenhazasodunk.hu"
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:842
+msgid "https://www.youtube.com/watch?v=VQWgez89JlM"
+msgstr "https://www.youtube.com/watch?v=VQWgez89JlM"
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:172
+msgid "out of $"
+msgstr "-ot - Ft"
+
+#. Text in function
+#: weddingcity/modules/listing-reviews/index.php:478
+msgid "ratings."
+msgstr "értékelések."
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:234
+msgid "remain"
+msgstr "nem befejezett"
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:282
+msgid "request_phone"
+msgstr "Telefon:"
+
+#. Text in function
+#: weddingcity/modules/couple-dashboard/index.php:172
+msgid "so far."
+msgstr "-ból/-ből"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:1652
+msgid "view map"
+msgstr "térkép megtekintése"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "weddingcity - Slider"
+msgstr "weddingcity-csúszka"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "weddingcity Sliders"
+msgstr "esküvői csúszka"
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:1050
+msgid "write a review"
+msgstr "ÍRD MEG A VÉLEMÉNYEDET"
+
+#. Text in echo
+#: weddingcity/modules/couple-guest-list/update-guest.php:1
+msgid "Guest Data - %1$s Not Found in our database.."
+msgstr "Vendégadatok -% 1 $ s Nem található adatbázisunkban."
+
+#. Text in echo
+#: weddingcity/modules/bulk-import-locations/index.php:266
+msgid "Import Locations"
+msgstr "Helyek importálása"
+
+#. Text in echo
+#: weddingcity/modules/bulk-import-locations/index.php:249
+msgid "Location Bulk Import"
+msgstr "Helyi importálás"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Hide"
+msgstr "Elrejt"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Listing Search ?"
+msgstr "Keresési lista?"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Off"
+msgstr "Ki"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "On"
+msgstr "Tovább"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Show"
+msgstr "Mutat"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Show listing amenities ?"
+msgstr "Megjelenítési listák megjelenítése?"
+
+#. Text in function
+#: weddingcity/elementor/slider/index.php:1
+msgid "Vendors Search ?"
+msgstr "Szállítók keresése?"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "breakpoint from 1200 up"
+msgstr "töréspont 1200-ról"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "breakpoint from 576 up"
+msgstr "töréspont 576-ról"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "breakpoint from 768 up"
+msgstr "töréspont 768-tól"
+
+#. Text in function
+#: weddingcity/elementor/listing/index.php:1
+msgid "breakpoint from 992 up"
+msgstr "töréspont 992-ről"
+
+#. Text in echo
+#: weddingcity/modules/add-listing/index.php:365
+msgid ""
+"<p>Hello %1$s,%6$s Your Activate Plan Name is: %2$s,%6$s  So you can add "
+"number of listing in %3$s is: %4$s%6$s Your Plan Expire Date is: %5$s</p>"
+msgstr ""
+"<p> Hello% 1 $ s,% 6 $ s Aktiválási terved neve:% 2 $ s,% 6 $ s Így "
+"hozzáadhatod a következőtA (z)% 3 $ s bejegyzések száma:% 4 $ s% 6 $ s A "
+"terv lejárt dátuma:% 5 $ s </p>"
+
+#. Text in echo
+#: weddingcity/modules/listing-reviews/index.php:1060
+#: weddingcity/modules/listing-reviews/index.php:1064
+msgid "average_rating"
+msgstr "average_rating"
+
+#. Text in echo
+#: weddingcity/modules/update-listing/index.php:597
+msgid "featured_listing"
+msgstr "Kiemelt Listing?"
+
+#. Text in echo
+#: weddingcity/modules/vendor-pricing/index.php:186
+msgid "plan_name"
+msgstr "Szerződés neve"
+
+#. Text in echo
+#: weddingcity/modules/real-wedding/index.php:467
+#: weddingcity/modules/real-wedding/index.php:468
+msgid "post_content"
+msgstr ""
+
+#. Text in echo
+#: weddingcity/modules/real-wedding/index.php:247
+msgid "realwedding_setting"
+msgstr "Esküvői fotóalbumotok beállítása"
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:299
+#: weddingcity/modules/listing-request/index.php:300
+msgid "request_comment"
+msgstr "Üzenet írása"
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:275
+msgid "request_email"
+msgstr "Ajánlat kérése"
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:268
+msgid "request_name"
+msgstr "Árajánlatkérés"
+
+#. Text in echo
+#: weddingcity/modules/vendor-pricing/index.php:202
+msgid "status"
+msgstr "állapot"
+
+#. Text in echo
+#: weddingcity/modules/vendor-pricing/index.php:194
+msgid "timeline"
+msgstr "Idővonal"
+
+#. Text in echo
+#: weddingcity/modules/user-profile/vendor-profile.php:1153
+msgid "vendor_bussiness_map"
+msgstr "Helyszín - Térkép"
+
+#. Text in echo
+#: weddingcity/modules/listing-request/index.php:289
+msgid "weddingdate"
+msgstr "Esküvő időpontja"
+
+#. Text in echo
+#: weddingcity/modules/vendor-dashboard/index.php:48
+msgid "Here what's happening with your wedding business today."
+msgstr "Itt van, mi történik ma esküvői üzletével."
+
+#. Text in echo
+#: weddingcity/modules/dashboard-menu/couple-menu.php:262
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:233
+msgid "edit profile"
+msgstr "profil szerkesztése"
+
+#. Text in echo
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:51
+msgid "My Listed Item"
+msgstr "Saját listázott elem"
+
+#. Text in echo
+#: weddingcity/modules/vendor-dashboard/index.php:107
+msgid "Total Listed Item"
+msgstr "Összes listázott tétel"
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:693
+#: weddingcity/modules/user-profile/couple-profile.php:695
+#: weddingcity/modules/user-profile/vendor-profile.php:503
+#: weddingcity/modules/user-profile/vendor-profile.php:505
+msgid "Old Password"
+msgstr "régi jelszó"
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:705
+#: weddingcity/modules/user-profile/couple-profile.php:707
+#: weddingcity/modules/user-profile/vendor-profile.php:515
+#: weddingcity/modules/user-profile/vendor-profile.php:517
+msgid "New Password"
+msgstr "új jelszó"
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:715
+#: weddingcity/modules/user-profile/couple-profile.php:717
+#: weddingcity/modules/user-profile/vendor-profile.php:525
+#: weddingcity/modules/user-profile/vendor-profile.php:527
+msgid "Confirm Password"
+msgstr "Jelszó megerősítése"
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:292
+msgid "Pay Paypal"
+msgstr "PayPal"
+
+#. Text in function
+#: weddingcity/modules/vendor-pricing/index.php:295
+msgid "Pay Stripe"
+msgstr "Bankkártya"
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:99
+msgid "Invoice"
+msgstr "Számla"
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:76
+msgid "Request Quotes"
+msgstr "Árajánlatkérések"
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:1694
+#: weddingcity/core/option-tree/metabox.php:1879
+#: weddingcity/modules/vendor-invoice/index.php:87
+msgid "Invoice Id"
+msgstr "Számla azonosítója"
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/index.php:93
+msgid "Payment Mode"
+msgstr "Fizetési mód"
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/index.php:102
+msgid "View Invoice"
+msgstr "Számla megtekintése"
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/couple-menu.php:175
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:122
+msgid "Logout"
+msgstr "Kijelentkezés"
+
+#. Text in function
+#: weddingcity/modules/blog-article/index.php:391
+msgid "Comment"
+msgstr "Megjegyzés"
+
+#. Text in function
+#: weddingcity/modules/couple-wishlist/index.php:424
+#: weddingcity/modules/couple-wishlist/index.php:437
+msgid "Add To Wishlist"
+msgstr "Hozzáadni a Kívánságlistához"
+
+#. Text in function
+#: weddingcity/modules/blog-article/index.php:803
+msgid "Next Post"
+msgstr "Következő"
+
+#. Text in function
+#: weddingcity/modules/blog-article/index.php:776
+msgid "Previous Post"
+msgstr "Előző"
+
+#. Text in function
+#: weddingcity/core/option-tree/theme-option.php:2493
+msgid "Forgot Password"
+msgstr "Elfelejtett jelszó"
+
+#. Text in function
+#: weddingcity/modules/alerts/index.php:135
+msgid "Please wait..."
+msgstr "Kérlek várj..."
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/couple-menu.php:67
+msgid "To Do List"
+msgstr "Teendők"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:810
+msgid "Completed Task"
+msgstr "Befejezett feladat"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:834
+msgid "Due Task"
+msgstr "Feladat"
+
+#. Text in function
+#: weddingcity/modules/couple-todo/index.php:882
+msgid "Total Task"
+msgstr "Teljes feladat"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:637
+msgid "Estimate Total"
+msgstr "Becsült összeg"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:640
+msgid "Actual Total"
+msgstr "Tényleges össz"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:643
+msgid "Paid Total"
+msgstr "Fizetett teljes összeg"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:646
+msgid "Pending Total"
+msgstr "Függő összes"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:624
+msgid "Add New Budget"
+msgstr "Új költségvetés hozzáadása"
+
+#. Text in function
+#: weddingcity/modules/couple-budget-planner/index.php:652
+msgid "Save Budget"
+msgstr "Költségkeret mentése"
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/couple-menu.php:89
+msgid "Guestlist"
+msgstr "Vendég lista"
+
+#. Text in function
+#: weddingcity/modules/real-wedding/index.php:494
+msgid "Submit Real Weddings"
+msgstr "ESKÜVŐ ALBUM MEGOSZTÁSA"
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:3233
+#: weddingcity/modules/user-profile/couple-profile.php:865
+#: weddingcity/modules/user-profile/couple-profile.php:867
+msgid "Bride First Name"
+msgstr "Menyasszony vezetékneve"
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:3248
+#: weddingcity/modules/user-profile/couple-profile.php:880
+#: weddingcity/modules/user-profile/couple-profile.php:882
+msgid "Bride Last Name"
+msgstr "Menyasszony keresztneve"
+
+#. Text in function
+#: weddingcity/modules/user-profile/couple-profile.php:897
+#: weddingcity/modules/user-profile/couple-profile.php:899
+msgid "Groom First Name"
+msgstr "Vőlegény vezetékneve"
+
+#. Text in function
+#: weddingcity/core/option-tree/metabox.php:3278
+#: weddingcity/modules/user-profile/couple-profile.php:913
+#: weddingcity/modules/user-profile/couple-profile.php:915
+msgid "Groom last Name"
+msgstr "Vőlegény keresztneve"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:946
+msgid "Featured"
+msgstr "KIEMELT"
+
+#. Text in function
+#: weddingcity/modules/listing-request/index.php:382
+#: weddingcity/modules/single-vendor/index.php:102
+msgid "Your Request Send Successfully!"
+msgstr "Ajánlatkérésedet sikeresen elküldted! "
+
+#. Text in function
+#: weddingcity/modules/vendor-invoice/index.php:96
+msgid "Date"
+msgstr "Dátum"
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:751
+#: weddingcity/modules/update-listing/index.php:768
+msgid "Add Listing Gallery"
+msgstr "Referenciaképek hozzáadása"
+
+#. Text in function
+#: weddingcity/modules/add-listing/index.php:445
+#: weddingcity/modules/update-listing/index.php:443
+msgid "Listing Info"
+msgstr "Szolgáltatói információ"
+
+#. Text in function
+#: weddingcity/modules/update-listing/index.php:405
+#: weddingcity/modules/update-listing/index.php:419
+msgid "Listing Category"
+msgstr "Szolgáltatói kategória"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:591
+msgid "Remove"
+msgstr "Törlés"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:422
+#: weddingcity/modules/listing/index.php:783
+msgid "Removed"
+msgstr "Törölt"
+
+#. Text in function
+#: weddingcity/modules/listing/index.php:411
+msgid "Approved"
+msgstr "Elfogadott"
+
+#. Text in function
+#: weddingcity/modules/vendor-dashboard/index.php:167
+msgid "Your Reviews"
+msgstr "Vélemények rólad"
+
+#. Text in function
+#: weddingcity/inc/class-page-header-banner.php:438
+#: weddingcity/core/option-tree/metabox.php:3323
+#: weddingcity/modules/user-profile/couple-profile.php:592
+#: weddingcity/modules/user-profile/couple-profile.php:594
+#: weddingcity/modules/user-profile/couple-profile.php:603
+#: weddingcity/modules/user-profile/couple-profile.php:605
+msgid "Wedding Theme"
+msgstr "Esküvőtök témája (vintage, modern, klasszikus etc.)"
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:151
+msgid ""
+"We can't find your name. Make sure you enter your name as it appears on your "
+"invitations."
+msgstr ""
+"Nem találjuk a nevedet, mert nem szerepelsz a vendéglistán. Vedd fel a "
+"kapcsolatot az ifjú párral, és Kérd meg, hogy írjanak fel a vendéglista "
+"menedzserbe!"
+
+#. Text in function
+#: weddingcity/modules/wedding-website/index.php:251
+msgid "Your Page Setting Successfully Updated !"
+msgstr "Sikeres feltöltés! "
+
+#. Text in function
+#: weddingcity/modules/couple-guest-list/index.php:1765
+msgid "Confirmed"
+msgstr "Elfogadva"
+
+#. Text in function
+#: weddingcity/modules/dashboard-menu/couple-menu.php:44
+#: weddingcity/modules/dashboard-menu/vendor-menu.php:40
+msgid "Dashboard"
+msgstr "Vezérlőpult"
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:274
+msgid "Couple Name"
+msgstr "Vendégek neve"
+
+#. Text in function
+#: weddingcity/modules/couple-rsvp/index.php:193
+#: weddingcity/modules/couple-rsvp/index.php:259
+#: weddingcity/modules/couple-rsvp/index.php:326
+msgid "Sorry, can't make it."
+msgstr "Sajnálom, de nem tudok ott lenni."
+
+#. Text in function
+msgid "Your invitation link."
+msgstr "A meghívás visszaigazolásához kattints ide!"

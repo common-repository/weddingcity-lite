@@ -1,0 +1,32 @@
+.countdown{position: relative;display: flex;}
+.countdown ul {
+    list-style: none;
+    margin-left: 0px;
+    position: relative;
+    left: -40px;
+    top: 10px;
+}
+.countdown ul li{float: left;width: 100px;font-size: 26px; line-height: 32px;   font-weight: 600;color: #2b221f;margin-bottom: 20px;display: block;}
+.under-t{
+  color: #a6a19f;
+ 
+  text-transform: capitalize;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.couple-wedding-data{
+    padding-top: 20px;
+}
+
+.couple-wedding-data .couple-name{font-size: 46px; font-family: 'Roboto', sans-serif;
+ line-height: 56px; margin-bottom: 0px;  font-weight: 300;}
+.couple-wedding-data .couple-wedding-date{font-size: 16px; line-height: 28px;}
+.couple-wedding-data .couple-wedding-counter{margin-bottom: 0px; font-size: 18px;}
+
+.couple-wedding-img{display: flex;}
+.couple-wedding-img-first{display: inline-block;
+ 
+}
+.couple-wedding-img-second{display: inline-block; margin-left:-20px;
+}
